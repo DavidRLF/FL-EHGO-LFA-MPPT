@@ -188,6 +188,3 @@ If you use the models or algorithms contained in this repository in academic wor
 
 Complete bibliographic information and DOI will be added after publication.
 
-## License
-
-Please refer to the repository license for the applicable terms of use.
