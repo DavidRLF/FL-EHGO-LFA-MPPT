@@ -55,7 +55,6 @@ These models implement the corresponding MPPT algorithms on the C2806x/F28069M t
 | `S_EXP_SF_V1.slx` | Embedded experimental implementation of SF-MPPT. |
 | `S_EXP_FL_EHGO_P_V1.slx` | Embedded experimental implementation of FL-EHGO-MPPT. |
 | `S_EXP_PROP_V1.slx` | Embedded experimental implementation of the proposed FL-EHGO-LFA-based MPPT algorithm. |
-| `S_EXP_PROP_FORMATO_V1.slx` | Supporting version of the proposed experimental implementation. |
 
 The experimental embedded models coordinate ADC acquisition and synchronous controller execution through the ADC interrupt. The corresponding controller is executed within the basic control loop, while the LUT-based MPPT reference generation is handled separately. A Rate Transition block decouples experimental data transmission from the synchronous control sequence.
 
