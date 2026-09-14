@@ -180,11 +180,3 @@ Appropriate MATLAB/Simulink support packages for the C2000 target are required f
 4. Configure the serial communication port when required.
 5. Run the experiment and acquire the transmitted variables.
 
-## Citation
-
-If you use the models or algorithms contained in this repository in academic work, please cite the associated paper:
-
-> D. R. Lopez-Flores et al., "Soft-computing MPPT algorithm for a grid-tied PV system using Lyapunov-fuzzy auxiliary control within a feedback-linearization and extended high-gain observer structure: PIL and experimental validation."
-
-Complete bibliographic information and DOI will be added after publication.
-
